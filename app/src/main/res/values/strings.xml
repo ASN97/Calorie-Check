@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calorie-Check</string>
+
+
+
+    <string-array name="food_item">
+        <item>Milk</item>
+        <item>Banana</item>
+        <item>Rice</item>
+        <item>Cereals</item>
+        <item>Soup</item>
+
+    </string-array>
+</resources>
